@@ -1,2 +1,2 @@
 #!/bin/bash
-vdir -l
+ls -l */ -a ls ../ ../..
